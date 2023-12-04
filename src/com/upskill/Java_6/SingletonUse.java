@@ -8,5 +8,5 @@ public class SingletonUse {
 		 obj.demo();
 
 	}
-
+      // this change is to check on devBoltu 
 }
